@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_lista"
+        android:icon="@drawable/ic_lista"
+        android:title="@string/title_lista" />
+
+    <item
+        android:id="@+id/navigation_piramide"
+        android:icon="@drawable/ic_piramide"
+        android:title="@string/title_piramide" />
+
+    <item
+        android:id="@+id/navigation_mas"
+        android:icon="@drawable/ic_mas"
+        android:title="@string/title_mas" />
+
+</menu>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Foodpal</string>
+    <string name="title_lista">Lista</string>
+    <string name="title_piramide">Piramide</string>
+    <string name="title_mas">Mas</string>
+    <string name="calorias">Calorias:&#160;</string>
+    <string name="cal">&#160;cal</string>
+    <string name="hidratos_de_carbono">Hidratos de carbono:&#160;</string>
+    <string name="percentage">&#160;%</string>
+    <string name="grasas">Grasas:&#160;</string>
+    <string name="proteinas">Proteinas:&#160;</string>
+</resources>

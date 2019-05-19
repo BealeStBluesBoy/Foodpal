@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context=".fragments.MasFragment">
+
+    <Button
+        android:id="@+id/sancor_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="sancor"
+        android:tag="http://www.sancor.com/productos/producto-pagina-principal?es"/>
+
+    <Button
+        android:id="@+id/serenisima_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="la serenisima"
+        android:tag="https://www.laserenisima.com.ar/producto_1286_clsicaa3"/>
+
+    <Button
+        android:id="@+id/arcor_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="arcor"
+        android:tag="https://www.arcor.com/alimentacion" />
+
+    <Button
+        android:id="@+id/nutrinfo_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="nutrinfo"
+        android:tag="http://2013.nutrinfo.com/tabla_composicion_quimica_alimentos_2018.php" />
+
+</LinearLayout>
